@@ -1,121 +1,66 @@
-@import url( ../../iconfont/css/iconfont.css );
-.survey-list .weui-media-box__desc {
-	MARGIN-BOTTOM: 5px; COLOR: #666
+@import "../../iconfont/css/iconfont.css";
+
+
+.survey-list .weui-media-box__desc{margin-bottom: 5px;color: #666;}
+.survey-list .listFlex{display: flex; align-items:center;justify-content:space-between;}
+.survey-list h4{flex: 1;}
+.survey-list .status .red{color: #DA4F49;font-size: 13px;}
+.survey-list .status .green{color: #00B22D;font-size: 13px;}
+.survey-list .status .blue{color: #4D8FFF;font-size: 13px;}
+.survey-list .status .orange{color: #FF671E;font-size: 13px;}
+.survey-list .status .gary{color: #AFCE5B;font-size: 13px;}
+.survey-list .status .roseo{color:#DC2F68;font-size: 13px;}
+.survey-list .weui-media-box__title{font-size:15px; color:#9d9faa;}
+.survey-list:after{display:none;}
+
+.questionnaire_detail_content{background-color:#363940;box-shadow: 0 0px 5px rgba(0,0,0,0.01);}
+.questionnaire_detail_content.weui-panel:after,.questionnaire_detail_content.weui-panel:before{display:none;}
+.questionnaire_detail_content .weui-media-box__title{white-space:inherit;font-size: 18px;font-weight: 900;}
+.questionnaire_detail_content .weui-media-box__title:before{background: url(../../images/radus_bg_orange.png) no-repeat; position: absolute; content: ''; left: 0;height: 23px;width: 20px; background-size:contain; top: 13px;}
+.questionnaire_detail_content p{color: #9d9faa;font-size: 13px; margin-top:5px;}
+.questionnaire_detail_content .quest-article{margin-top: 5px;}
+.questionnaire_detail_content .quest-article p{color: #9d9faa;font-size: 16px;}
+
+.teams-padding{padding-top: 10px;margin-bottom: 10px;}
+.teams-padding .weui-media-box__title{padding: 10px;font-size: 16px;}
+.weui-cells_checkbox .weui-icon-checked:before{font-size: 20px;}
+.teams-padding .weui-cell__bd p{font-size: 15px;}
+.teams-padding .weui-cells{margin-top: 0; background-color:transparent;}
+/*.teams-padding .textarea-padding{padding: 0 10px 10px;font-size: 14px;}*/
+/*.teams-padding .textarea-padding textarea{background: #F8F8F8;border-radius: 5px;
+padding: 5px;}*/
+
+.other-active{position: relative;}
+.other-input{/*float: left;*/width: 200px;background:#F8F8F8;padding: 3px;border-radius: 5px; }
+
+.weui-cells_checkbox.checkbox-icon [class^="weui-icon-"]{font-family:  "iconfont";}
+.weui-cells_checkbox.checkbox-icon .weui-icon-checked:before{content: '\e61e';color: #C9C9C9;font-size: 23px;display: block;}
+.weui-cells_checkbox.checkbox-icon .weui-check:checked + .weui-icon-checked:before{content: '\e61f'; color: #4C84C4;}
+
+.weui-cells_checkbox .weui-check:disabled + .weui-icon-checked:before,.weui-cells_checkbox.checkbox-icon .weui-check:disabled + .weui-icon-checked:before{color:#ccc}
+
+.switch-size .weui-switch:before,.switch-size .weui-switch-cp__box:before,.switch-size .weui-switch{width: 45px; height: 25px;}
+.switch-size .weui-switch:after,.switch-size .weui-switch-cp__box:after{width: 24px; height: 24px; }
+
+/* @font-face {
+	font-family: "iconfont";
+  	src:url('../../iconfont/fonts/iconfont.ttf') format('truetype')
+}*/
+
+.weui-panel_access{
+		border-radius: 10px;
+		background-color:#363940;
+		box-shadow: 0 0px 5px rgba(0,0,0,0.01);
 }
-.survey-list .listFlex {
-	DISPLAY: flex; align-items: center; justify-content: space-between
-}
-.survey-list H4 {
-	flex: 1
-}
-.survey-list .status .red {
-	FONT-SIZE: 13px; COLOR: #da4f49
-}
-.survey-list .status .green {
-	FONT-SIZE: 13px; COLOR: #00b22d
-}
-.survey-list .status .blue {
-	FONT-SIZE: 13px; COLOR: #4d8fff
-}
-.survey-list .status .orange {
-	FONT-SIZE: 13px; COLOR: #ff671e
-}
-.survey-list .status .gary {
-	FONT-SIZE: 13px; COLOR: #afce5b
-}
-.survey-list .status .roseo {
-	FONT-SIZE: 13px; COLOR: #dc2f68
-}
-.survey-list .weui-media-box__title {
-	FONT-SIZE: 15px; COLOR: #9d9faa
-}
-.survey-list:after {
-	DISPLAY: none
-}
-.questionnaire_detail_content {
-	BACKGROUND-COLOR: #363940; box-shadow: 0 0px 5px rgba(0,0,0,0.01)
-}
-.weui-panel.questionnaire_detail_content:after {
-	DISPLAY: none
-}
-.weui-panel.questionnaire_detail_content:before {
-	DISPLAY: none
-}
-.questionnaire_detail_content .weui-media-box__title {
-	FONT-SIZE: 18px; FONT-WEIGHT: 900
-}
-.questionnaire_detail_content .weui-media-box__title:before {
-	HEIGHT: 23px; WIDTH: 20px; BACKGROUND: url(../../images/radus_bg_orange.png) no-repeat; POSITION: absolute; CONTENT: ''; LEFT: 0px; TOP: 13px; background-size: contain
-}
-.questionnaire_detail_content P {
-	FONT-SIZE: 13px; MARGIN-TOP: 5px; COLOR: #9d9faa
-}
-.questionnaire_detail_content .quest-article {
-	MARGIN-TOP: 5px
-}
-.questionnaire_detail_content .quest-article P {
-	FONT-SIZE: 16px; COLOR: #9d9faa
-}
-.teams-padding {
-	MARGIN-BOTTOM: 10px; PADDING-TOP: 10px
-}
-.teams-padding .weui-media-box__title {
-	FONT-SIZE: 16px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
-}
-.weui-cells_checkbox .weui-icon-checked:before {
-	FONT-SIZE: 20px
-}
-.teams-padding .weui-cell__bd P {
-	FONT-SIZE: 15px
-}
-.teams-padding .weui-cells {
-	MARGIN-TOP: 0px; BACKGROUND-COLOR: transparent
-}
-.other-active {
-	POSITION: relative
-}
-.other-input {
-	WIDTH: 200px; BACKGROUND: #f8f8f8; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; border-radius: 5px
-}
-.checkbox-icon.weui-cells_checkbox [class^='weui-icon-'] {
-	FONT-FAMILY: "iconfont"
-}
-.checkbox-icon.weui-cells_checkbox .weui-icon-checked:before {
-	FONT-SIZE: 23px; COLOR: #c9c9c9; CONTENT: '¤x'; DISPLAY: block
-}
-.checkbox-icon.weui-cells_checkbox .weui-check:unknown + .weui-icon-checked:before {
-	COLOR: #4c84c4; CONTENT: '¤y'
-}
-.weui-cells_checkbox .weui-check:unknown + .weui-icon-checked:before {
-	COLOR: #ccc
-}
-.checkbox-icon.weui-cells_checkbox .weui-check:unknown + .weui-icon-checked:before {
-	COLOR: #ccc
-}
-.switch-size .weui-switch:before {
-	HEIGHT: 25px; WIDTH: 45px
-}
-.switch-size .weui-switch-cp__box:before {
-	HEIGHT: 25px; WIDTH: 45px
-}
-.switch-size .weui-switch {
-	HEIGHT: 25px; WIDTH: 45px
-}
-.switch-size .weui-switch:after {
-	HEIGHT: 24px; WIDTH: 24px
-}
-.switch-size .weui-switch-cp__box:after {
-	HEIGHT: 24px; WIDTH: 24px
-}
-.weui-panel_access {
-	BACKGROUND-COLOR: #363940; border-radius: 10px; box-shadow: 0 0px 5px rgba(0,0,0,0.01)
-}
-.teams-padding-boxsha {
-	MARGIN-TOP: 15px; COLOR: #9d9faa; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND-COLOR: #363940; border-radius: 10px; box-shadow: 0 0px 5px rgba(0,0,0,0.01)
-}
-.operation-box1 {
-	MARGIN-TOP: 30px
-}
-.weui-cell {
-	PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
-}
+.teams-padding-boxsha{
+				background-color:#363940;
+				padding: 10px;
+				border-radius: 10px;
+				box-shadow: 0 0px 5px rgba(0,0,0,0.01);
+				margin-top:15px;
+				color: #9D9FAA;
+			}
+.operation-box1{margin-top: 30px;}
+
+			
+.weui-cell{padding: 10px;}
