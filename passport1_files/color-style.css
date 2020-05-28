@@ -1,0 +1,117 @@
+.weui-bar__item--on.weui-tabbar__item .weui-tabbar__label {
+	COLOR: #5077aa
+}
+.weui-bar__item--on.weui-tabbar__item .weui-tabbar__icon > I {
+	COLOR: #5077aa
+}
+.index-swiper .swiper-pagination-bullet-active {
+	BACKGROUND: #fff
+}
+.page-tab .weui-bar__item--on.weui-navbar__item {
+	BORDER-BOTTOM: #5077aa 3px solid; FONT-WEIGHT: bold; COLOR: #5077aa; BACKGROUND-COLOR: transparent
+}
+.page-tab .weui-navbar__item {
+	PADDING-BOTTOM: 8px; PADDING-TOP: 8px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.page-tab .weui-navbar__item:after {
+	BORDER-RIGHT-STYLE: none
+}
+.btn-main {
+	BORDER-TOP: #2f99e9 1px solid; BORDER-RIGHT: #2f99e9 1px solid; BORDER-BOTTOM: #2f99e9 1px solid; BORDER-LEFT: #2f99e9 1px solid; BACKGROUND-COLOR: #2f99e9
+}
+UNKNOWN {
+	COLOR: #fff
+}
+UNKNOWN {
+	BORDER-TOP: #1473dc 1px solid; BORDER-RIGHT: #1473dc 1px solid; BORDER-BOTTOM: #1473dc 1px solid; COLOR: ; BORDER-LEFT: #1473dc 1px solid; BACKGROUND-COLOR: #1473dc
+}
+.btn-main-outline {
+	BORDER-TOP: #2f99e9 1px solid; BORDER-RIGHT: #2f99e9 1px solid; BORDER-BOTTOM: #2f99e9 1px solid; COLOR: #2f99e9; BORDER-LEFT: #2f99e9 1px solid; BACKGROUND-COLOR: #edf1f3
+}
+UNKNOWN {
+	COLOR: #2f99e9
+}
+UNKNOWN {
+	COLOR: #2f99e9; BACKGROUND-COLOR: #edf1f3
+}
+.btn-main-link {
+	BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; COLOR: #2f99e9; BORDER-RIGHT-STYLE: none; BACKGROUND-COLOR: #fff
+}
+UNKNOWN {
+	COLOR: #2f99e9
+}
+UNKNOWN {
+	COLOR: #2f99e9; BACKGROUND-COLOR: #f45834
+}
+.btn-link-search {
+	BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; COLOR: #fff; BORDER-RIGHT-STYLE: none; BACKGROUND-COLOR: #2f99e9
+}
+UNKNOWN {
+	COLOR: #fff
+}
+UNKNOWN {
+	COLOR: #fff; BACKGROUND-COLOR: #8f919b
+}
+.btn-green {
+	BORDER-TOP: #afce5b 1px solid; BORDER-RIGHT: #afce5b 1px solid; BORDER-BOTTOM: #afce5b 1px solid; BORDER-LEFT: #afce5b 1px solid; BACKGROUND-COLOR: #afce5b
+}
+UNKNOWN {
+	COLOR: #fff
+}
+UNKNOWN {
+	BORDER-TOP: #afce5b 1px solid; BORDER-RIGHT: #afce5b 1px solid; BORDER-BOTTOM: #afce5b 1px solid; COLOR: ; BORDER-LEFT: #afce5b 1px solid; BACKGROUND-COLOR: #afce5b
+}
+.btn-blue {
+	BORDER-TOP: #0e85dd 1px solid; BORDER-RIGHT: #0e85dd 1px solid; BORDER-BOTTOM: #0e85dd 1px solid; BORDER-LEFT: #0e85dd 1px solid; BACKGROUND-COLOR: #0e85dd
+}
+UNKNOWN {
+	COLOR: #fff
+}
+UNKNOWN {
+	BORDER-TOP: #0e85dd 1px solid; BORDER-RIGHT: #0e85dd 1px solid; BORDER-BOTTOM: #0e85dd 1px solid; COLOR: ; BORDER-LEFT: #0e85dd 1px solid; BACKGROUND-COLOR: #0e85dd
+}
+.btn-roseo {
+	BACKGROUND-COLOR: #dc2f68
+}
+UNKNOWN {
+	COLOR: #dc2f68
+}
+UNKNOWN {
+	COLOR: ; BACKGROUND-COLOR: #dc2f68
+}
+.btn-red {
+	BORDER-TOP: #ff6339 1px solid; BORDER-RIGHT: #ff6339 1px solid; BORDER-BOTTOM: #ff6339 1px solid; BORDER-LEFT: #ff6339 1px solid; BACKGROUND-COLOR: #ff6339
+}
+UNKNOWN {
+	COLOR: #fff
+}
+UNKNOWN {
+	BORDER-TOP: #ff6339 1px solid; BORDER-RIGHT: #ff6339 1px solid; BORDER-BOTTOM: #ff6339 1px solid; COLOR: ; BORDER-LEFT: #ff6339 1px solid; BACKGROUND-COLOR: #ff6339
+}
+.btn-orange {
+	BORDER-TOP: #ff9326 1px solid; BORDER-RIGHT: #ff9326 1px solid; BORDER-BOTTOM: #ff9326 1px solid; BORDER-LEFT: #ff9326 1px solid; BACKGROUND-COLOR: #ff9326
+}
+UNKNOWN {
+	COLOR: #fff
+}
+UNKNOWN {
+	BORDER-TOP: #ff9326 1px solid; BORDER-RIGHT: #ff9326 1px solid; BORDER-BOTTOM: #ff9326 1px solid; COLOR: ; BORDER-LEFT: #ff9326 1px solid; BACKGROUND-COLOR: #ff9326
+}
+.btn-gary {
+	BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; BACKGROUND-COLOR: #ccc
+}
+UNKNOWN {
+	COLOR: #666
+}
+UNKNOWN {
+	BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid; COLOR: ; BORDER-LEFT: #ccc 1px solid; BACKGROUND-COLOR: #ccc
+}
+.btn-mazarine {
+	BORDER-TOP: #5179a9 1px solid; BORDER-RIGHT: #5179a9 1px solid; BORDER-BOTTOM: #5179a9 1px solid; BORDER-LEFT: #5179a9 1px solid; BACKGROUND-COLOR: #5179a9
+}
+UNKNOWN {
+	COLOR: #fff
+}
+UNKNOWN {
+	BORDER-TOP: #5179a9 1px solid; BORDER-RIGHT: #5179a9 1px solid; BORDER-BOTTOM: #5179a9 1px solid; COLOR: ; BORDER-LEFT: #5179a9 1px solid; BACKGROUND-COLOR: #5179a9
+}

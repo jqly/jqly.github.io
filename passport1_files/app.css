@@ -1,0 +1,375 @@
+UL {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.weui-input {
+	COLOR: #9d9faa
+}
+.form-cell INPUT:unknown {
+	COLOR: #666
+}
+.weui-cells__title {
+	FONT-SIZE: 14px
+}
+.weui-btn:after {
+	BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none
+}
+.weui-cell {
+	PADDING-BOTTOM: 15px; PADDING-TOP: 15px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
+}
+.weui-cell:before {
+	LEFT: 10px
+}
+A.weui-media-box:active {
+	BACKGROUND-COLOR: transparent
+}
+.weui-popup__modal .toolbar {
+	BACKGROUND-COLOR: #edf6fc
+}
+.modal-content .weui-cells {
+	BACKGROUND-COLOR: #edf6fc
+}
+.container-box-margin {
+	MARGIN: 10px
+}
+.container-box-fix {
+	PADDING-BOTTOM: 55px; MARGIN: 10px 10px 0px
+}
+.footnav .weui-tabbar__item {
+	PADDING-TOP: 0px
+}
+.footnav .weui-bar__item--on.weui-tabbar__item .weui-tabbar__icon > I {
+	FONT-SIZE: 30px; MARGIN-LEFT: -3px
+}
+.footnav .weui-tabbar__icon > I {
+	FONT-SIZE: 30px; MARGIN-LEFT: -3px
+}
+.footnav .weui-tabbar__label {
+	FONT-SIZE: 13px
+}
+.page-img {
+	WIDTH: 100%
+}
+.iconnav {
+	MARGIN-TOP: 10px
+}
+.iconnav A {
+	COLOR: #666; TEXT-ALIGN: center; DISPLAY: block
+}
+.iconnav .nav-icon {
+	HEIGHT: 3.5em; WIDTH: 3.5em; COLOR: #fff; border-radius: 40%
+}
+.iconnav .nav-icon IMG {
+	WIDTH: 70%
+}
+.iconnav I {
+	FONT-SIZE: 26px; DISPLAY: block; LINE-HEIGHT: 2.2em
+}
+.iconnav .weui-flex {
+	WIDTH: 100%; DISPLAY: block
+}
+.speed-list {
+	PADDING-BOTTOM: 10px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px 10px; PADDING-RIGHT: 10px; BACKGROUND-COLOR: #363940; border-radius: 15px; box-shadow: 0 0px 5px rgba(0,0,0,0.01)
+}
+.weui-panel.speed-list:after {
+	DISPLAY: none
+}
+.weui-panel.speed-list:before {
+	DISPLAY: none
+}
+.speed-list .listFlex {
+	DISPLAY: flex; align-items: flex-start; justify-content: space-between
+}
+.speed-list H4 {
+	flex: 1
+}
+.speed-list .status .red {
+	FONT-SIZE: 13px; COLOR: #ff6339
+}
+.speed-list .status .green {
+	FONT-SIZE: 13px; COLOR: #afce5b
+}
+.speed-list .status .blue {
+	FONT-SIZE: 13px; COLOR: #0e85dd
+}
+.speed-list .status .mazarine {
+	FONT-SIZE: 13px; COLOR: #5179a9
+}
+.speed-list .status .orange {
+	FONT-SIZE: 13px; COLOR: #ff671e
+}
+.speed-list .status .gary {
+	FONT-SIZE: 13px; COLOR: #999
+}
+.speed-list .status .roseo {
+	FONT-SIZE: 13px; COLOR: #dc2f68
+}
+.speed-list .weui-media-box__title {
+	FONT-SIZE: 15px; COLOR: #9d9faa
+}
+.form-cell .weui-select {
+	HEIGHT: 24px; PADDING-LEFT: 0px; LINE-HEIGHT: 24px
+}
+.form-cell LABEL.weui-label {
+	FONT-SIZE: 15px
+}
+.form-cell .weui-cell__bd {
+	FONT-SIZE: 15px; WORD-BREAK: break-all
+}
+.form-cell-page {
+	FONT-SIZE: 15px
+}
+.weui-dialog__btn {
+	COLOR: #ff6339 !important
+}
+.weui-dialog .default.weui-dialog__btn {
+	COLOR: #9d9faa !important
+}
+.preview-form {
+	MARGIN-TOP: 10px
+}
+.preview-form .weui-form-preview__label {
+	WIDTH: 105px; TEXT-ALIGN-LAST: left; COLOR: #9d9faa; TEXT-ALIGN: left; MARGIN-RIGHT: 0px
+}
+.preview-form .weui-form-preview__value {
+	TEXT-ALIGN: left
+}
+.weui-form-preview__value {
+	COLOR: #333
+}
+.operation-box {
+	WIDTH: 100%; BACKGROUND: #fff; POSITION: fixed; Z-INDEX: 10; BOTTOM: 0px
+}
+.operation-box .weui-btn {
+	border-radius: 0
+}
+.operation-box .weui-btn:after {
+	BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none
+}
+.btnGroup .weui-flex__item {
+	MARGIN-BOTTOM: 10px
+}
+UNKNOWN {
+	MARGIN-RIGHT: 5px
+}
+UNKNOWN {
+	MARGIN-LEFT: 5px
+}
+.btnGroup2 {
+	MARGIN-BOTTOM: 10px
+}
+UNKNOWN {
+	MARGIN-LEFT: 5px
+}
+UNKNOWN {
+	MARGIN-RIGHT: 5px
+}
+.pull-left {
+	FLOAT: left
+}
+.pull-right {
+	FLOAT: right
+}
+.clearfix {
+	CLEAR: both
+}
+.box-content {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
+}
+.m-t-10 {
+	MARGIN-TOP: 10px
+}
+.m-b-10 {
+	MARGIN-BOTTOM: 10px
+}
+.m-r-10 {
+	MARGIN-RIGHT: 10px
+}
+.text-center {
+	TEXT-ALIGN: center
+}
+.text-right {
+	TEXT-ALIGN: right
+}
+.red {
+	COLOR: #ff6339 !important
+}
+.green {
+	COLOR: #afce5b !important
+}
+.blue {
+	COLOR: #4ec3f7 !important
+}
+.orange {
+	COLOR: #ff6339 !important
+}
+.mazarine {
+	COLOR: #5179a9 !important
+}
+.gary {
+	COLOR: #999 !important
+}
+.roseo {
+	COLOR: #dc2f68 !important
+}
+.font14 {
+	FONT-SIZE: 14px
+}
+.font16 {
+	FONT-SIZE: 16px
+}
+.font18 {
+	FONT-SIZE: 18px
+}
+.weui-icon-success {
+	COLOR: #2f99e9
+}
+.tip-text {
+	FONT-SIZE: 14px; MARGIN-TOP: 10px; COLOR: #999
+}
+.tableRenwu {
+	MARGIN-BOTTOM: 10px
+}
+.tableRenwu TABLE THEAD TR TH {
+	BORDER-BOTTOM: #e5e5e5 1px solid
+}
+.tableRenwu TABLE TR TD {
+	BORDER-BOTTOM: #e5e5e5 1px solid
+}
+.tableRenwu TABLE TR:unknown TD {
+	BORDER-BOTTOM-STYLE: none
+}
+.toolbar .picker-button {
+	COLOR: #ff6339
+}
+.weui-popup__container--visible .weui-label {
+	FONT-SIZE: 15px
+}
+.toolbar-inner {
+	FONT-SIZE: 15px
+}
+.weui-popup__container--visible TEXTAREA {
+	FONT-SIZE: 15px
+}
+.weui-popup__container--visible INPUT {
+	FONT-SIZE: 15px
+}
+.weui-textarea-counter {
+	FONT-SIZE: 13px
+}
+.weui-uploader__input-box {
+	BORDER-TOP: #bfbfbf 1px solid; BORDER-RIGHT: #bfbfbf 1px solid; BORDER-BOTTOM: #bfbfbf 1px solid; BORDER-LEFT: #bfbfbf 1px solid
+}
+.back_home {
+	HEIGHT: 40px; WIDTH: 40px; RIGHT: 0px; POSITION: fixed; TEXT-ALIGN: center; Z-INDEX: 10; LINE-HEIGHT: 38px; TOP: 240px; border-radius: 50% 0 0 50%
+}
+.back_home I {
+	FONT-SIZE: 22px; COLOR: #fff; MARGIN-LEFT: 12px
+}
+.index-swiper {
+	HEIGHT: 13em; WIDTH: 100%
+}
+.index-swiper IMG {
+	WIDTH: 100%
+}
+.swiper-container-horizontal > .swiper-pagination-bullets {
+	TOP: 10px; BOTTOM: 0px
+}
+.input-icon {
+	BACKGROUND: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAHBAMAAADOnLEXAAAAD1BMVEUAAACZmZmZmZmZmZmZmZnwkG6qAAAABHRSTlMA8GAwRXNOQQAAACtJREFUCNdjcAEDBhUQ6cTABKIUGBgUXVyEGBgYmEUcDRiAwFAYSAC5QA4AxGgF+3fpi4oAAAAASUVORK5CYII=) no-repeat 95% 50%
+}
+.weui-search-bar {
+	MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; border-radius: 5px
+}
+.weui-search-bar {
+	BACKGROUND: #fff
+}
+.weui-search-bar__form {
+	BACKGROUND: #fff
+}
+.weui-search-bar__form:after {
+	DISPLAY: none
+}
+.weui-search-bar:after {
+	DISPLAY: none
+}
+.weui-search-bar:before {
+	DISPLAY: none
+}
+.box-tab-sha {
+	MARGIN: 10px 0px 0px; border-radius: 5px; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.08)
+}
+.textarea-padding {
+	BORDER-TOP: #9d9faa 1px solid; BORDER-RIGHT: #9d9faa 1px solid; BORDER-BOTTOM: #9d9faa 1px solid; COLOR: #9d9faa; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; BORDER-LEFT: #9d9faa 1px solid; PADDING-RIGHT: 10px; border-radius: 5px
+}
+.textarea-padding TEXTAREA {
+	FONT-SIZE: 14px; BACKGROUND-COLOR: transparent
+}
+.card-head {
+	OVERFLOW: hidden; BACKGROUND: url(../../images/ziyuan_yuyue_bg.png) no-repeat; MARGIN-TOP: -10px; MARGIN-LEFT: -10px; MARGIN-RIGHT: -10px; background-size: 100%
+}
+.weui-cell__bd {
+	WORD-WRAP: break-word
+}
+.tableRenwu H5 {
+	WORD-WRAP: break-word
+}
+.from-box {
+	PADDING-BOTTOM: 10px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; BACKGROUND-COLOR: #363940; border-radius: 15px; box-shadow: 0 0px 5px rgba(0,0,0,0.01)
+}
+.from-box .weui-cells:after {
+	DISPLAY: none
+}
+.from-box .weui-cell__bd {
+	COLOR: #9d9faa
+}
+.from-box .weui-label {
+	COLOR: #9d9faa
+}
+.weui-cells.from-box:after {
+	DISPLAY: none
+}
+.from-box .weui-cells:before {
+	DISPLAY: none
+}
+.weui-cells.from-box:before {
+	DISPLAY: none
+}
+.operation-box1 {
+	MARGIN-TOP: 30px
+}
+.box-rad {
+	BACKGROUND: #363940; PADDING-RIGHT: 10px; border-radius: 10px; box-shadow: 0 0px 5px rgba(0,0,0,0.01)
+}
+.box-rad .weui-label {
+	COLOR: #9d9faa
+}
+.form-cell.box-rad .weui-cell__bd {
+	COLOR: #9d9faa
+}
+.box-rad .weui-uploader__title {
+	COLOR: #9d9faa
+}
+.weui-cells.box-rad:after {
+	DISPLAY: none
+}
+.box-rad:before {
+	BORDER-BOTTOM-WIDTH: 0px; BORDER-TOP-WIDTH: 0px
+}
+.box-rad:after {
+	BORDER-BOTTOM-WIDTH: 0px; BORDER-TOP-WIDTH: 0px
+}
+.title-cells-box {
+	FONT-SIZE: 15px; OVERFLOW: hidden; MARGIN-BOTTOM: 0px !important; COLOR: #fff; PADDING-LEFT: 20px; CLEAR: both; LINE-HEIGHT: 45px; border-top-left-radius: 10px; border-top-right-radius: 10px
+}
+.title-cells-box .pull-left {
+	FONT-SIZE: 15px; COLOR: #fff
+}
+.title-cells-box .pull-right {
+	FONT-SIZE: 13px; COLOR: #fff
+}
+.saixun-pop .modal-content {
+	BACKGROUND: #fff
+}

@@ -1,0 +1,75 @@
+.weui-cells:before {
+	DISPLAY: none
+}
+.weui-cells.prompt-checkbox {
+	MARGIN-BOTTOM: 1.17em
+}
+.weui-cells.prompt-checkbox:before {
+	BORDER-TOP-STYLE: none
+}
+.prompt-checkbox .weui-cell:before {
+	BORDER-TOP-STYLE: none
+}
+.weui-cells.prompt-checkbox:after {
+	BORDER-BOTTOM-STYLE: none
+}
+.prompt-checkbox .weui-cell__bd P {
+	COLOR: #333; TEXT-ALIGN: left
+}
+.prompt-checkbox .weui-check__label {
+	MARGIN-LEFT: 30px
+}
+.tableRenwu {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
+}
+.tableRenwu H5 {
+	FONT-SIZE: 15px; WIDTH: 100%; FONT-WEIGHT: normal; COLOR: #9d9faa; TEXT-ALIGN: left; DISPLAY: block
+}
+.renwu-flex {
+	MARGIN-TOP: 5px; PADDING-BOTTOM: 10px; DISPLAY: flex; align-items: center; justify-content: space-between; flex-direction: row
+}
+.line-bottom {
+	POSITION: relative; PADDING-TOP: 10px
+}
+.line-bottom:after {
+	HEIGHT: 1px; RIGHT: 0px; POSITION: absolute; CONTENT: ''; LEFT: 0px; BOTTOM: 0px; BACKGROUND-COLOR: #e5e5e5; -webkit-transform: scaleY(0.5); transform: scaleY(0.5)
+}
+.line-bottom:after {
+	DISPLAY: none
+}
+.renwu-flex P {
+	FONT-SIZE: 13px; COLOR: #999
+}
+.weui-loadmore {
+	COLOR: #666; MARGIN: 5px auto
+}
+.c-gray {
+	COLOR: #b3b3b3
+}
+.operation-box1 A {
+	MARGIN: 0px 4px; border-radius: 8px
+}
+.btn-main {
+	
+}
+.box-rad:before {
+	BORDER-BOTTOM-WIDTH: 0px; BORDER-TOP-WIDTH: 0px
+}
+.box-rad:after {
+	BORDER-BOTTOM-WIDTH: 0px; BORDER-TOP-WIDTH: 0px
+}
+.pull-left {
+	FONT-SIZE: 14px
+}
+.pull-right {
+	FONT-SIZE: 14px
+}
+.weui-cells__title {
+	MARGIN-BOTTOM: 0.6em
+}
+.weui-form-preview__item .weui-form-preview__label {
+	FONT-SIZE: 15px; COLOR: #9d9faa
+}
+.weui-form-preview__item .weui-form-preview__value {
+	FONT-SIZE: 15px; COLOR: #9d9faa
+}
